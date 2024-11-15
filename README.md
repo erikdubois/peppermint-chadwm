@@ -32,5 +32,5 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 
 # Examples
 
-![Alt text](mint-lmde6-1.png)
+![Alt text](peppermint-1.jpg)
 
